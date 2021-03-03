@@ -1,0 +1,5 @@
+Variables : las variables puden ser cajas, dentro de ellas podemos meter cosas con distintos nombres para usar luego. 
+strings : los string son palabras que siempre estaran escritas entre comillas. 
+funciones : las funciones son objetos que tienen como palabra clave "function". para usarlo tenemos que poner el nombre de la funcion, parentesis abierto y cerrado y luego corchetes. los argumentos son cosas que podemos ir agregandole. return es una palabra con la que podemos devolver algo
+declaracion if: la palabra if la usamos para saber si algo es verdadero o falso
+valores booleanos: esto significa que tenemos dos opciones verdadero o falso 
