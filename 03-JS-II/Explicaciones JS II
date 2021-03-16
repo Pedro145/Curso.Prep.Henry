@@ -1,0 +1,4 @@
+For : significa que podemos repetir cosas varias veces.
+&& : compara expreciones nos dira "verdadero" si dos expreciones son verdaderas, si una expreciones es falsa nos dira "falso".
+|| : si una o ambas de las expreciones es verdadera nos dira "verdadero" y nos dira "falso" si ambas expreciones son falsas. 
+! : se utiliza para decir no.
